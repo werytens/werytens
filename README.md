@@ -1,4 +1,4 @@
-<h1 align="center"><p style = "color: #C5D5EA; font-size: 50px;">Welcome!</p><br><br>
+<p style = "color: #C5D5EA; font-size: 50px;">Welcome!</p><br><br>
  
 <h2>Technical:<br>
 <h3>Languages:<br><br>
