@@ -1,6 +1,6 @@
 <h1 align = "center">Welcome!<br><br>
  
-<h2>Technical:<br>
+<h2>Technical:<br><br>
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=greydatlenght&layout=compact">
 <h3>Languages:<br><br>
 <div>
