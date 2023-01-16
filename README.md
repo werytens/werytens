@@ -11,9 +11,10 @@
 <h3>Programms:<br><br> 
 <div>
  <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064575606563553380/Figma-Dark.png" style="max-width: 30px; max-height: 30px;">
- <img src = "" style="max-width: 100%;">
- <img src = "" style="max-width: 100%;">
- <img src = "" style="max-width: 100%;">
+ <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064575907202859088/Photoshop.png" style="max-width: 30px; max-height: 30px;">
+ <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064576114468589638/VisualStudio-Dark.png" style="max-width: 30px; max-height: 30px;">
+ <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064576370010767371/VSCode-Dark.png" style="max-width: 30px; max-height: 30px;">
+ <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064576213865201764/Atom.png" style="max-width: 30px; max-height: 30px;">
 </div>
 <h2>Images:<br>
  <h3>Cat:<br><br>
