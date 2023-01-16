@@ -19,6 +19,9 @@
 <h2>Images:<br>
  <h3>Cat:<br><br>
  <img src = "https://cdn.discordapp.com/attachments/979036650757820457/1064559788689727528/image.png" style = "min-width: 100%;">
+  
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greydatlenght)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **greydatlenght/greydatlenght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
