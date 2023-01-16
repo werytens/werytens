@@ -10,7 +10,7 @@
 </div>
 <h3>Programms:<br><br> 
 <div>
- <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064575606563553380/Figma-Dark.png" style="max-width: 25px; max-height: 25px;">
+ <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064575606563553380/Figma-Dark.png" style="max-width: 30px; max-height: 30px;">
  <img src = "" style="max-width: 100%;">
  <img src = "" style="max-width: 100%;">
  <img src = "" style="max-width: 100%;">
