@@ -1,4 +1,4 @@
-<h1 align="center" style = "skyblue">Welcome!<a href="https://daniilshat.ru/" target="_blank"></a><br><br>
+<h1 align="center" style = "color: #C5D5EA;">Welcome!<a href="https://daniilshat.ru/" target="_blank"></a><br><br>
  
 <h2>Technical:<br>
 <h3>Languages:<br><br>
