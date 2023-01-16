@@ -2,6 +2,7 @@
  
 <h2>Technical:<br>
 <h3>Languages:<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greydatlenght)](https://github.com/anuraghazra/github-readme-stats)
 <div>
  <img src = "https://camo.githubusercontent.com/b4385df332a8388555b70eaa0281f547690043483bb511483394dc227f4d63ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" style="max-width: 100%;">
  <img src = "https://camo.githubusercontent.com/01d63b85d7f578500992563f534bfea8da5ad523c963a1e6581a920444370cba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e" style="max-width: 100%;">
@@ -21,7 +22,6 @@
  <img src = "https://cdn.discordapp.com/attachments/979036650757820457/1064559788689727528/image.png" style = "min-width: 100%;">
   
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greydatlenght)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **greydatlenght/greydatlenght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
