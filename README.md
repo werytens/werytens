@@ -1,4 +1,4 @@
-<h1 align="center"><img src = "https://cdn-icons-png.flaticon.com/512/711/711284.png" style = "max-width: 20px; max-height: 20px;">Welcome!<a href="https://daniilshat.ru/" target="_blank"></a><br><br>
+<h1 align="center"><img src = "https://cdn-icons-png.flaticon.com/512/711/711284.png" style = "max-width: 30px; max-height: 30px;">  Welcome!<a href="https://daniilshat.ru/" target="_blank"></a><br><br>
  
 <h2>Technical:<br>
 <h3>Languages:<br><br>
