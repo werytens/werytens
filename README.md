@@ -15,13 +15,10 @@
 <h3>Programms:<br><br> 
 <div>
  <img src = "https://img.shields.io/badge/Figma-343434?style=for-the-badge&logo=Figma" style="max-width: 100%;">
- <img src = "" style="max-width: 100%;">
- <img src = "" style="max-width: 100%;">
+ <img src = "https://img.shields.io/badge/Visual%20Studio-Code-343434?style=for-the-badge&logo=VisualStudio" style="max-width: 100%;">
  <img src = "" style="max-width: 100%;">
  <img src = "https://img.shields.io/badge/Atom-343434?style=for-the-badge&logo=Atom" style="max-width: 100%;">
  <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064575907202859088/Photoshop.png" style="width: 25px; height: 25px;">
- <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064576114468589638/VisualStudio-Dark.png" style="width: 25px; height: 25px;">
- <img src = "https://cdn.discordapp.com/attachments/1015343850958626856/1064576370010767371/VSCode-Dark.png" style="width: 25px; height: 25px;">
 </div>
 <h2>Images:<br>
  <h3>Cat:<br><br>
