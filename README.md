@@ -14,7 +14,7 @@
 </div>
 <h3>Programms:<br><br> 
 <div>
- <img src = "https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma" style="max-width: 100%;">
+ <img src = "https://img.shields.io/badge/Figma-343434?style=for-the-badge&logo=Figma" style="max-width: 100%;">
  <img src = "" style="max-width: 100%;">
  <img src = "" style="max-width: 100%;">
  <img src = "" style="max-width: 100%;">
