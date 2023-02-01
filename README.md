@@ -3,7 +3,7 @@
 <h2>Technical:<br><br>
  <div align = "center">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=greydatlenght&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=greydatlenght&show_icons=true&theme=dark">
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=greydatlenght&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
  </div>
 <h3>Languages:<br> 
 <div><br>
