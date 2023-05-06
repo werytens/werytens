@@ -1,4 +1,4 @@
-<h1 align = "center">Welcome!<br><br>
+<!-- <h1 align = "center">Welcome!<br><br>
  
 <h2>Technical:<br><br>
  <div align = "center">
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
