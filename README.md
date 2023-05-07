@@ -2,8 +2,8 @@
  
 <h2>Technical:<br><br>
  <div align = "center">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=greydatlenght&theme=radical">
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=greydatlenght&show_icons=true&theme=radical">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aovent&theme=radical">
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=aovent&show_icons=true&theme=radical">
  </div>
 <h3>Languages:<br> 
 <div><br>
