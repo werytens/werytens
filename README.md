@@ -1,4 +1,4 @@
-<h1 align = "center">Welcome!<br><br>
+Welcome!<br><br>
  
 Technical:<br><br>
  <div align = "center">
@@ -22,8 +22,8 @@ Programms:<br><br>
  <img src = "https://img.shields.io/badge/Photoshop-343434?style=for-the-badge&logo=AdobePhotoshop" style="max-width: 100%;">
  <img src = "https://img.shields.io/badge/Atom-343434?style=for-the-badge&logo=Atom" style="max-width: 100%;">
 </div>
-<h2>Images:<br>
- <h3>Cat:<br><br>
+Images:<br>
+Cat:<br><br>
  <img src = "https://cdn.discordapp.com/attachments/979036650757820457/1064559788689727528/image.png" style = "min-width: 100%;">
 <br><br>
 <div align = "center"> <img src = "https://profile-counter.glitch.me/greydatlenght/count.svg"> </div>
