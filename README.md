@@ -2,7 +2,7 @@
 
 <div align = "center">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aovent&theme=radical">
-  <im height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aovent&layout=donut&theme=radical">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aovent&layout=donut&theme=radical">
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=aovent&show_icons=true&theme=radical">
 </div><br>
 
