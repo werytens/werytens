@@ -2,7 +2,7 @@
 
 <div align = "center">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aovent&layout=donut&langs_count=6&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aovent&theme=buefy&layout=radical&langs_count=10&hide=Shell&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aovent&theme=radical&layout=compact&langs_count=6&hide=Shell&card_width=400" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aovent&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
  
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=aovent&show_icons=true&theme=radical">
