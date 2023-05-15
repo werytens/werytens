@@ -1,4 +1,4 @@
-<div align = "center"><a href = "https://aovent.github.io/"><img src = "./aoventlogo-two.png"></a></div><br>
+<div class = 'test' align = "center"><a href = "https://aovent.github.io/"><img src = "./aoventlogo-two.png"></a></div><br>
 
 <div align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aovent&theme=radical&layout=compact&langs_count=6&hide=Shell&card_width=400" />
@@ -25,3 +25,9 @@
   <img src = "https://img.shields.io/badge/Photoshop-343434?style=for-the-badge&logo=AdobePhotoshop" style="max-width: 100%;">
   <img src = "https://img.shields.io/badge/Atom-343434?style=for-the-badge&logo=Atom" style="max-width: 100%;">
 </div><br>
+
+<style>
+   .test {
+background: url('https://media.discordapp.net/attachments/1091495948821200998/1092811534067040327/white-wall-background_87918-121.png')
+}
+<style/>
