@@ -4,7 +4,7 @@
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=werytens&show_icons=true&theme=radical">
 </div><br>
 
-<div align = "center">
+<!-- <div align = "center">
   <h3>Stack:</h3>
   <img src = "https://camo.githubusercontent.com/b4385df332a8388555b70eaa0281f547690043483bb511483394dc227f4d63ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" style="max-width: 100%;">
   <img src = "https://img.shields.io/badge/TypeScript-343434?style=for-the-badge&logo=TypeScript" style="max-width: 100%;">
@@ -22,4 +22,4 @@
   <img src = "https://img.shields.io/badge/Visual%20Studio-Code-343434?style=for-the-badge&logo=VisualStudio" style="max-width: 100%;">
   <img src = "https://img.shields.io/badge/Photoshop-343434?style=for-the-badge&logo=AdobePhotoshop" style="max-width: 100%;">
   <img src = "https://img.shields.io/badge/Atom-343434?style=for-the-badge&logo=Atom" style="max-width: 100%;">
-</div><br>
+</div><br> -->
