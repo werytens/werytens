@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=werytens)
 
-<div align = "center">
+<div>
   <h1>React Frontend Developer</h1>
   <div>
     <p>Main stack:</p>
