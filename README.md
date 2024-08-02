@@ -1,7 +1,6 @@
-![](https://komarev.com/ghpvc/?username=werytens)
-
 <div>
   <h1>React Frontend Developer</h1>
+  ![](https://komarev.com/ghpvc/?username=werytens)
   <div>
     <p>Main stack:</p>
     <ul>
@@ -11,9 +10,11 @@
     </ul>
   </div>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werytens&theme=radical&layout=compact&langs_count=8&hide=Shell&card_width=400" />
+ <div aling="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werytens&theme=radical&layout=compact&langs_count=8&hide=Shell&card_width=400" />
  
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=werytens&show_icons=true&theme=radical">
+    <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=werytens&show_icons=true&theme=radical">
+ </div>
 </div><br>
 
 <!-- <div align = "center">
