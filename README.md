@@ -2,6 +2,14 @@
 
 <div align = "center">
   <h1>React Frontend Developer</h1>
+  <div>
+    <p>Main stack:</p>
+    <ul>
+      <li>React</li>
+      <li>Typescript</li>
+      <li>Redux Toolkit</li>
+    </ul>
+  </div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werytens&theme=radical&layout=compact&langs_count=8&hide=Shell&card_width=400" />
  
