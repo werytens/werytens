@@ -1,6 +1,6 @@
+![](https://komarev.com/ghpvc/?username=werytens)
 <div>
   <h1>React Frontend Developer</h1>
-  ![](https://komarev.com/ghpvc/?username=werytens)
   <div>
     <p>Main stack:</p>
     <ul>
